@@ -7,7 +7,7 @@
     <description>File Chooser for Cordova/Phonegap</description>
     <license>MIT</license>
     <keywords>cordova,filechooser,android,filepicker,phonegap</keywords>
-    <repo>https://github.com/truth86/mfilechooser.git</repo>
+    <repo>https://github.com/RsanabriaZ/mfilechooser.git</repo>
     
     <js-module src="www/mfilechooser.js" name="MFileChooser">
         <clobbers target="MFileChooser" />
