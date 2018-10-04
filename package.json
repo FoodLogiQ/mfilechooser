@@ -9,7 +9,7 @@
   "issue": "",
   "keywords": [],
   "platforms": [
-    "ios"
+    "android"
   ],
   "cordova": {
     "id": "com.maginsoft.mfilechooser",
