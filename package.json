@@ -5,7 +5,7 @@
   "cordova_name": "com.maginsoft.mfilechooser",
   "description": "File Chooser for Cordova/Phonegap",
   "license": "MIT",
-  "repo": https://github.com/RsanabriaZ/mfilechooser.git",
+  "repo": "https://github.com/RsanabriaZ/mfilechooser.git",
   "issue": "",
   "keywords": [],
   "platforms": [
